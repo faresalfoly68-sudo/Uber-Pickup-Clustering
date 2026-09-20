@@ -46,4 +46,4 @@ pip install -r requirements.txt
 
 **Fares Waleed Alfoly**
 
-Computer Science Student | AI Engineer Track
+Computer Science  | AI Engineer Track
